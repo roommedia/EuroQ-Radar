@@ -30,20 +30,20 @@ EuroQ-Radar categorizes the industry into seven interconnected strategic pillars
 
 | Name (Pioneer / Org) | Role (Ecosystem) | Domain (Tech Stack) | Geography (Hub) | Organization | Readiness Score |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Petra Scudo** | 政策标准 | 混合算力 (HPC+QC) | 欧盟总部 | European Commission JRC | 🌟🌟🌟🌟 |
-| **Paolo Cremonesi** | 算力基建 | 混合算力 (HPC+QC), 量子AI (QML) | 意大利 | 米兰理工 / ICSC 国家超算中心 | 🌟🌟🌟 |
-| **Sabine Mehr** | 算力基建 | 混合算力 (HPC+QC) | 法国 | GENCI | 🌟🌟🌟 |
-| **Riccardo Manenti** | 硬件造芯 | 超导 (Superconducting) | 美国(硅谷桥梁) | Rigetti Computing | 🌟🌟 |
-| **Giorgio Zarantonello** | 硬件造芯 | 离子阱 (Trapped-ion) | 德国 | Qudora Technologies | 🌟 |
-| **Davide Venturelli** | 算法开发 | 量子AI (QML) | 美国(硅谷桥梁) | NASA QuAIL / USRA | 🌟🌟 |
-| **Giulio Amato** | 算法开发 | 混合算力 (HPC+QC) | 意大利 | Classiq Technologies | 🌟🌟🌟🌟 |
-| **Daniele Dragoni** | 终端甲方 | 混合算力 (HPC+QC) | 意大利 | Leonardo (莱昂纳多集团) | 🌟🌟🌟 |
-| **Antonio Sturiale** | 终端甲方 | 量子安全 (QKD/PQC) | 意大利 | Thales Alenia Space Italia | 🌟🌟🌟 |
-| **Vittorio Tartarini** | 终端甲方 | 量子AI (QML) | 意大利 | Credem Banca | 🌟🌟 |
-| **Enrico Talinucci** | 咨询集成 | 量子安全 (QKD/PQC) | 意大利 | Accenture (埃森哲) | 🌟🌟🌟🌟 |
-| **Antonio Policicchio** | 咨询集成 | 混合算力 (HPC+QC) | 意大利 | NTT DATA | 🌟🌟🌟 |
-| **Emilio Mango** | 资本法务 | 量子安全 (QKD/PQC) | 意大利 | The Innovation Group (TIG) | 🌟🌟🌟🌟 |
-| **Lucia Occhiuto** | 资本法务 | 量子安全 (QKD/PQC) | 意大利 | Italian Tech Alliance | 🌟🌟🌟🌟 |
+| **Petra Scudo** | Policy & Standards | Hybrid Computing (HPC+QC) | EU HQ | European Commission JRC | 🌟🌟🌟🌟 |
+| **Paolo Cremonesi** | Computing Infra | Hybrid HPC+QC, Quantum AI (QML) | Italy | Politecnico di Milano / ICSC | 🌟🌟🌟 |
+| **Sabine Mehr** | Computing Infra | Hybrid Computing (HPC+QC) | France | GENCI | 🌟🌟🌟 |
+| **Riccardo Manenti** | Hardware Foundry | Superconducting | US (Silicon Valley Bridge) | Rigetti Computing | 🌟🌟 |
+| **Giorgio Zarantonello** | Hardware Foundry | Trapped-ion | Germany | Qudora Technologies | 🌟 |
+| **Davide Venturelli** | Algorithm Dev | Quantum AI (QML) | US (Silicon Valley Bridge) | NASA QuAIL / USRA | 🌟🌟 |
+| **Giulio Amato** | Algorithm Dev | Hybrid Computing (HPC+QC) | Italy | Classiq Technologies | 🌟🌟🌟🌟 |
+| **Daniele Dragoni** | Industrial End-User | Hybrid Computing (HPC+QC) | Italy | Leonardo Group | 🌟🌟🌟 |
+| **Antonio Sturiale** | Industrial End-User | Quantum Security (QKD/PQC) | Italy | Thales Alenia Space Italia | 🌟🌟🌟 |
+| **Vittorio Tartarini** | Industrial End-User | Quantum AI (QML) | Italy | Credem Banca | 🌟🌟 |
+| **Enrico Talinucci** | System Integration | Quantum Security (QKD/PQC) | Italy | Accenture | 🌟🌟🌟🌟 |
+| **Antonio Policicchio** | System Integration | Hybrid Computing (HPC+QC) | Italy | NTT DATA | 🌟🌟🌟 |
+| **Emilio Mango** | Legal & Capital | Quantum Security (QKD/PQC) | Italy | The Innovation Group (TIG) | 🌟🌟🌟🌟 |
+| **Lucia Occhiuto** | Legal & Capital | Quantum Security (QKD/PQC) | Italy | Italian Tech Alliance | 🌟🌟🌟🌟 |
 
 *Note: The Readiness Score is tailored for the NISQ era, acknowledging that software, standard-setting bodies, and consulting frameworks currently possess higher commercial readiness than noisy hardware foundries.*
 
